@@ -1,0 +1,15 @@
+E:\iti\asp.net mvc api\labs\day_02\Tickets\Tickets.BL\bin\Debug\net7.0\Tickets.BL.deps.json
+E:\iti\asp.net mvc api\labs\day_02\Tickets\Tickets.BL\bin\Debug\net7.0\Tickets.BL.dll
+E:\iti\asp.net mvc api\labs\day_02\Tickets\Tickets.BL\bin\Debug\net7.0\Tickets.BL.pdb
+E:\iti\asp.net mvc api\labs\day_02\Tickets\Tickets.BL\obj\Debug\net7.0\Tickets.BL.csproj.AssemblyReference.cache
+E:\iti\asp.net mvc api\labs\day_02\Tickets\Tickets.BL\obj\Debug\net7.0\Tickets.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti\asp.net mvc api\labs\day_02\Tickets\Tickets.BL\obj\Debug\net7.0\Tickets.BL.AssemblyInfoInputs.cache
+E:\iti\asp.net mvc api\labs\day_02\Tickets\Tickets.BL\obj\Debug\net7.0\Tickets.BL.AssemblyInfo.cs
+E:\iti\asp.net mvc api\labs\day_02\Tickets\Tickets.BL\obj\Debug\net7.0\Tickets.BL.csproj.CoreCompileInputs.cache
+E:\iti\asp.net mvc api\labs\day_02\Tickets\Tickets.BL\obj\Debug\net7.0\Tickets.BL.dll
+E:\iti\asp.net mvc api\labs\day_02\Tickets\Tickets.BL\obj\Debug\net7.0\refint\Tickets.BL.dll
+E:\iti\asp.net mvc api\labs\day_02\Tickets\Tickets.BL\obj\Debug\net7.0\Tickets.BL.pdb
+E:\iti\asp.net mvc api\labs\day_02\Tickets\Tickets.BL\obj\Debug\net7.0\ref\Tickets.BL.dll
+E:\iti\asp.net mvc api\labs\day_02\Tickets\Tickets.BL\bin\Debug\net7.0\Tickets.DAL.dll
+E:\iti\asp.net mvc api\labs\day_02\Tickets\Tickets.BL\bin\Debug\net7.0\Tickets.DAL.pdb
+E:\iti\asp.net mvc api\labs\day_02\Tickets\Tickets.BL\obj\Debug\net7.0\Tickets.BL.csproj.CopyComplete
