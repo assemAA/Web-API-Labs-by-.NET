@@ -1,3 +1,3 @@
 # Web-API-Labs-by-.NET
-build Web API apps By .NET for ITI-9 Months
-Applying Authentication and Authorization by JWT
+1- build Web API apps By .NET   
+2- Applying Authentication and Authorization by JWT
